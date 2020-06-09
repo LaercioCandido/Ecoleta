@@ -10,11 +10,4 @@ O projeto foi ministrado por <a href="https://github.com/maykbrito">Maiky Brito<
 
 </br>
  
-🚀  <strong>Tecnologias utilizadas:</strong>
-
-- HTML
-- CSS
-- Javascript
-- Node.js
-- SQLite3
-</br></br>
+🚀  <strong>Tecnologias utilizadas:</strong> HTML, CSS, Javascript, Node.js, SQLite3
