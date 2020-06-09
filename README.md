@@ -9,8 +9,6 @@
 O projeto foi ministrado por <a href="https://github.com/maykbrito">Maiky Brito</a>, instrutor da <a href="http://rocketseat.com.br">Rocketseat</a> e foi inspirado por ser a semana do ambiente. Uma semana para descobrir na prática o método que vai acelerar sua evolução e te levar para o próximo nível. 
 
 </br>
-------------------
-</br>
  
 🚀  <strong>Tecnologias utilizadas:</strong>
 
