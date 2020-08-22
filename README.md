@@ -1,13 +1,28 @@
-<h3 align="center">
-<b>Semana Next level week <p><a href="https://rocketseat.com.br"><img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1"></a></p></b>
-</br>   
-   
-------------------
-</br>
-📌 Sobre o projeto que foi desenvolvido:
+# Ecoleta
+O projeto Ecoleta é um marketplace de coleta de resíduos.  
+Projeto criado na semana Next Week Level com o intuito de introdução ao desenvolvimento web.
 
-O projeto foi ministrado por <a href="https://github.com/maykbrito">Maiky Brito</a>, instrutor da <a href="http://rocketseat.com.br">Rocketseat</a> e foi inspirado por ser a semana do ambiente. Uma semana para descobrir na prática o método que vai acelerar sua evolução e te levar para o próximo nível. 
+## Tecnologias utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-</br>
- 
-🚀  <strong>Tecnologias utilizadas:</strong> HTML, CSS, Javascript, Node.js, SQLite3
+- Javascript
+- HTML
+- CSS
+- NodeJS
+- Express
+- SQLite
+
+## Como baixar e iniciar o projeto
+```
+    # Clonar o repositório
+    $ git clone https://github.com/grioos/ecoleta
+
+    # Entrar no diretório
+    $ cd ecoleta
+
+    # Instale as dependências
+    $ npm install
+    
+    # Iniciar o projeto
+    $ npm start
+```
