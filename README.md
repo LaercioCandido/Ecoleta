@@ -1,6 +1,6 @@
 # Ecoleta
 O projeto Ecoleta é um marketplace de coleta de resíduos.  
-Projeto criado na semana Next Week Level com o intuito de introdução ao desenvolvimento web.
+Projeto criado na semana Next Week Level da Rocketseat.
 
 ## Tecnologias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
