@@ -15,7 +15,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Como baixar e iniciar o projeto
 ```
     # Clonar o repositório
-    $ git clone https://github.com/grioos/ecoleta
+    $ git clone https://github.com/laerciocandido/ecoleta
 
     # Entrar no diretório
     $ cd ecoleta
